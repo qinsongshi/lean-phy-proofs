@@ -1,0 +1,7 @@
+[[require]]
+name = "mathlib"
+version = "master"
+
+package lean-phy-proofs {
+  defaultTargets := [lean-phy-proofs]
+}
