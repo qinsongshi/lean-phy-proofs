@@ -23,3 +23,4 @@ theorem observable_implies_hermitian
   (hAllEigReal : ∀ (ψ : V) (a : ℂ), A ψ = a • ψ → ψ ≠ 0 → ∃ r : ℝ, a = (r : ℂ)) :
   A.IsSelfAdjoint := by
   sorry
+-- Temp edit to generate PR diff for ax-prover batch proof
