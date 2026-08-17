@@ -1,2 +1,1 @@
-
 # lean-phy-proofs
